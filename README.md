@@ -8,7 +8,7 @@ https://www.figma.com/design/qmsbUrzLoY9xgaWZx1MjpL/Brand-Book?node-id=0-1&t=eW7
 
 Located in [/fonts](fonts/).
 
-# Logos
+# Logo
 
 Located in [/logo](logo/).
 
