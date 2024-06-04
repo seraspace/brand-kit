@@ -15,3 +15,8 @@ Located in [/logo](logo/).
 # Gradient
 
 Located in [/gradient](gradient/).
+
+# Colors
+
+<span style="color: #262624">Void Black</span>
+![Custom Badge](https://img.shields.io/badge/Custom-Color-262624)
