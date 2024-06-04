@@ -18,5 +18,14 @@ Located in [/gradient](gradient/).
 
 # Colors
 
-<span style="color: #262624;">Void Black</span>
 ![Custom Badge](https://img.shields.io/badge/Custom-Color-262624)
+Void Black: #262624
+
+![Custom Badge](https://img.shields.io/badge/Custom-Color-DDDFE5)
+Slate Grey: #DDDFE5
+
+![Custom Badge](https://img.shields.io/badge/Custom-Color-F7F9FB)
+Lunar Mist: #F7F9FB
+
+![Custom Badge](https://img.shields.io/badge/Custom-Color-F7F9FB)
+Cosmic Blue: #0D00A0
