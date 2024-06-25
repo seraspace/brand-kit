@@ -24,32 +24,6 @@ https://www.figma.com/design/7M2igRW1Z9FKSaeY18qG80/Deliverables-from-Otherlife?
 
 https://www.figma.com/design/qmsbUrzLoY9xgaWZx1MjpL/Brand-Book?node-id=0-1&t=eW7s78PP8aawSdIE-1
 
-### Fonts
-
-Located in [/fonts](fonts/).
-
-### Logo
-
-Located in [/logo](logo/).
-
-### Gradient
-
-Located in [/gradient](gradient/).
-
-### Colors
-
-![Custom Badge](https://img.shields.io/badge/Custom-Color-262624)
-Void Black: #262624 / RGB (38, 38, 36) / CMYK (0%, 0%, 5%, 85%)
-
-![Custom Badge](https://img.shields.io/badge/Custom-Color-DDDFE5)
-Slate Grey: #DDDFE5 / RGB (221, 223, 229) / CMYK (4%, 3%, 0%, 10%)
-
-![Custom Badge](https://img.shields.io/badge/Custom-Color-F7F9FB)
-Lunar Mist: #F7F9FB / RGB (247, 249, 251) / CMYK (2%, 1%, 0%, 2%)
-
-![Custom Badge](https://img.shields.io/badge/Custom-Color-0D00A0)
-Cosmic Blue: #0D00A0 / RGB (13, 0, 160) / CMYK (92%, 100%, 0%, 37%)f
-
 ## PDFs LINKS
 
 ### Earned Media Reports
@@ -63,3 +37,39 @@ https://www.dropbox.com/scl/fo/92tta0dzlj9rmsj7551n9/AKJMQtbKmSb7qDQWCynaUaQ?rlk
 ### TV Science Competition overview
 
 https://www.dropbox.com/scl/fo/avw1odmcd81ezuq9z0nvw/AHnwJxU0V2om-EpTBW0s5vs?rlkey=i7j7jzql57frldgmgueij0tc4&st=rkh86onr&dl=0
+
+## INDIA
+
+### Creative Presentations
+
+#### Creative Routes 2
+
+https://docs.google.com/presentation/d/14bNq7xEJ6FnuhsfTLnH_VS9pzzynZvSBz6ervJenPas/edit?usp=drive_web
+
+#### Reward System Ideas
+
+https://docs.google.com/presentation/d/19L5YBbnI5_sRgcY9YdYhaAPzrDwkPrGkob13iUySKMI/edit?usp=drive_web
+
+#### Creative Routes - Final
+
+https://docs.google.com/presentation/d/1OTTcofd4Qk3G-f7o7T45Tx5bdAizo9tYYN1NlM61i6Y/edit?usp=drive_web
+
+### Influencers Plans
+
+#### SERA X Hypp
+
+https://docs.google.com/spreadsheets/d/1-3Hj9d_Ls5EyaCBXQh6294IKTSZLyxBd9gDLaiFhors/edit?usp=drive_web
+
+#### VF x Antkind x SERA College Engagement Approach Deck_Ext.
+
+https://docs.google.com/presentation/d/1ChzGkqeBA9nEIpzpRmkUcd9yYQ5InIM1FvG8DsU_h9o/edit?usp=drive_web
+
+#### Gozoop Influencer Marketing - Plan of Action & Recommendations
+
+https://drive.google.com/file/d/1XJ3oF4TUFjNl4ifO19yEje_cKKcQ2nT3/view?usp=drive_web
+
+### Market Research
+
+#### FGD Report- Final
+
+https://docs.google.com/document/d/1S3GnGB2dsfmpZ35m7OujAYZSgz6mSu2WbXg1CQiraNg/edit?usp=drive_web
